@@ -5,8 +5,6 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 - 📝 I regularly write articles on [https://refine-thinking.tistory.com/](https://refine-thinking.tistory.com/)
 
-- 📫 How to reach me **dbsrua110525@gmail.com**
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/yungyeom-kim-0b8145285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungyeom kim" height="30" width="40" /></a>
