@@ -3,7 +3,7 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 - 🌱 I’m currently learning **NLP, MLOPs**
 
-- 📝 I regularly write articles on [_✍️글로 생각 다듬는 블로그_](https://refine-thinking.tistory.com/)
+- 📝 I regularly write articles on [__✍️글로 생각 다듬는 블로그__](https://refine-thinking.tistory.com/)
 
 ## Connect with me
 <p align="left">
