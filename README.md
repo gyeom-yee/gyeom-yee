@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyeom-yee&show_icons=true&locale=en&layout=compact" alt="gyeom-yee" /></p>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dbsrua1105})](https://solved.ac/{dbsrua1105})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrua1105)](https://solved.ac/dbsrua1105)
