@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YUNGYEOM KIM</h1>
-<h3 align="center">I dream of everyone's success rather than my achievements. My goal is to make people who are with me shine.</h3>
+<h1 align="left">Hi 👋, I'm YUNGYEOM KIM</h1>
+<h3 align="left">I dream of everyone's success rather than my achievements. My goal is to make people who are with me shine.</h3>
 
 - 🌱 I’m currently learning **NLP, MLOPs**
 
