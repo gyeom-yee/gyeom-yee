@@ -9,7 +9,7 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/yungyeom-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungyeom kim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yungyeom-kim-0b8145285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungyeom kim" height="30" width="40" /></a>
 <a href="https://kaggle.com/gyeomyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gyeom_yee" height="30" width="40" /></a>
 </p>
 
