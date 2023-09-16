@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm YUNGYEOM KIM</h1>
 I dream of everyone's success rather than my achievements. My goal is to make people who are with me shine.
 
-- 🌱 I’m currently learning **NLP, MLOPs**
+- 🌱 I’m currently learning **AI/ML, NLP**
 
 - 📝 I regularly write articles on [*✍️글로 생각 다듬는 블로그*](https://refine-thinking.tistory.com/)
 
