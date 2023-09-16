@@ -21,6 +21,6 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 ## :zap: GitHub Profile Stat
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <summary><b>Toggle</b></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeom-yee&show_icons=true&locale=en" alt="gyeom-yee" />
 </details>
