@@ -10,14 +10,24 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/yungyeom-kim-0b8145285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungyeom kim" height="30" width="40" /></a>
-<a href="https://kaggle.com/gyeomyee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gyeom_yee" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yungyeom-kim-0b8145285" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://kaggle.com/gyeomyee" target="blank">
+    <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 
 ## Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyeom-yee&show_icons=true&locale=en&layout=compact" alt="gyeom-yee" /></p>
+
+<!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorFlow-FF6F00?style=for-the-badge&logo=tensorFlow&logoColor=white">
+</p>
 
 
 ## Problem solving
