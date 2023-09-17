@@ -26,7 +26,11 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 
 
 ## GitHub Profile Stat
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeom-yee&show_icons=true&locale=en" alt="gyeom-yee" />
+
+<!--
 <details>
   <summary><b>📈 GitHub Profile Stat</b></summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeom-yee&show_icons=true&locale=en" alt="gyeom-yee" />
+  
 </details>
+-->
