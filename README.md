@@ -33,9 +33,10 @@ I dream of everyone's success rather than my achievements. My goal is to make pe
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsrua1105)](https://solved.ac/dbsrua1105)
 
-
+<!--
 ## GitHub Profile Stat
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeom-yee&show_icons=true&locale=en" alt="gyeom-yee" />
+-->
 
 <!--
 <details>
