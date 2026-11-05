@@ -15,11 +15,10 @@ LLM 기반 애플리케이션과 데이터 파이프라인을 만듭니다.
 
 | Project | Description | Role · Stack |
 |---|---|---|
-| [Aero-Chat](https://github.com/Fasoo-LLM-Chat-UI-UX) | 기업용 Private LLM 챗봇 - 실시간 스트리밍 응답, 보안 등급별 문서 검색. 한국항공대 SW중심대학 산학 R&D (with 파수) | 팀장 · PM · Private LLM |
 | [policy-effect-analytics-agent](https://github.com/CausalInferenceLab/policy-effect-analytics-agent) | 공공데이터로 정책 효과를 검증하는 에이전틱 AI 분석 오픈소스 (가짜연구소 인과추론팀) | Contributor · Python, Agentic AI |
-| kis-quant-trader *(private)* | 증권사 Open API 기반 자동매매 시스템 - 데이터 수집 → 신호 판단 → 주문 실행 | Python |
-| [slackbot_data_pipeline](https://github.com/gyeom-yee/slackbot_data_pipeline) | AI를 활용한 뉴스 크롤링과 해외 시간 안내를 Slack으로 전달하는 봇 | Python, Slack API |
+| [Aero-Chat](https://github.com/Fasoo-LLM-Chat-UI-UX) | 기업용 Private LLM 챗봇 - 실시간 스트리밍 응답, 보안 등급별 문서 검색. 한국항공대 SW중심대학 산학 R&D (with 파수) | 팀장 · PM · Private LLM |
 | [Beer Sentiment Classifier](https://github.com/sgr1118/Bert_beer_sentiment_anlysis) | BERT 기반 맥주 리뷰 감성 분류 및 핵심 문구 추출 - 수집·라벨링·증강·모델링 전 과정, HuggingFace 모델 공개. 모두의연구소 MODUPOP 발표 | PyTorch, Transformers |
+| kis-quant-trader *(private)* | 증권사 Open API 기반 자동매매 시스템 - 데이터 수집 → 신호 판단 → 주문 실행 | Python |
 
 ## 🛠 Tech Stack
 
